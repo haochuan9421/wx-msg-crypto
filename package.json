@@ -1,0 +1,16 @@
+{
+  "name": "wx-msg-crypto",
+  "version": "1.0.0",
+  "description": "微信公众号 & 第三方平台消息通知加解密 Node.js 示例（基于 Koa2）",
+  "main": "app.js",
+  "repository": "git@github.com:HaoChuan9421/wx-msg-crypto.git",
+  "author": "HaoChuan9421 <hc199421@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "koa": "^2.11.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^8.0.8",
+    "xml2js": "^0.4.23"
+  }
+}
